@@ -2,6 +2,11 @@
 	font-family: 'Roboto';
 	src:url(Roboto-Bold.ttf)
 }
+h1{
+	font-size: 3opx;
+	text-align:center;
+	font-family: Tahoma;
+}
 #Principal{
 	/*background-color: #837DD1;*/
 	width: 850.1px;
